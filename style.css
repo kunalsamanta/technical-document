@@ -1,0 +1,31 @@
+body {
+    font-family: arial;
+    line-height: 2;
+  }
+  #navbar ul {
+    padding: 0px;
+    margin-top: 30px;
+  }
+  nav li {
+    list-style-type: none;
+    display: block;
+    padding-left: 30px;
+    color: gray;
+    border-top: 1px solid gray;
+    margin: 5px;
+  }
+  #navbar header {
+    text-align: center;
+  }
+  nav a {
+    text-decoration: none;
+  }
+  header {
+    font-size: 30px;
+  }
+  
+  code pre {
+    background-color: lightgray;
+    padding: 15px;
+  }
+ 
